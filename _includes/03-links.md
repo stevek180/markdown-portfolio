@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Bing](http://www.bing.com)
